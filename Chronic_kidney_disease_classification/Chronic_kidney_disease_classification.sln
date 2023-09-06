@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chronic_kidney_disease_classification", "Chronic_kidney_disease_classification\Chronic_kidney_disease_classification.csproj", "{46FF0EAA-DE03-489A-BDF7-D11E8E8D425A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46FF0EAA-DE03-489A-BDF7-D11E8E8D425A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FF0EAA-DE03-489A-BDF7-D11E8E8D425A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FF0EAA-DE03-489A-BDF7-D11E8E8D425A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FF0EAA-DE03-489A-BDF7-D11E8E8D425A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4442BA38-CFDF-40C0-BFBB-6964F4622DAC}
+	EndGlobalSection
+EndGlobal
